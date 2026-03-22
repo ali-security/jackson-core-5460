@@ -2,7 +2,6 @@
 
 Last Updated: 2022-09-20
 
-
 ## Supported Versions
 
 Current status of open branches, with new releases, can be found from [Jackson Releases](https://github.com/FasterXML/jackson/wiki/Jackson-Releases)
